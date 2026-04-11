@@ -2,7 +2,7 @@
 
 **Fullstack Developer | Cybersecurity (Application Security Focus)**  
 
-I design and build web applications with security as a first-class concern — focusing on how systems are structured, exploited, and hardened.
+Fullstack developer focused on application security. I build, break, and harden web systems.
 
 ---
 
