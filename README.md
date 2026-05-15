@@ -1,111 +1,68 @@
-# Abdulmujeeb Uthman 👋
+# Hey, I'm Abdulmujeeb Uthman 👋
 
-**Fullstack Developer | Cybersecurity (Application Security Focus)**  
+**Fullstack Developer · Application Security Engineer**
 
-Fullstack developer focused on application security. I build, break, and harden web systems.
-
----
-
-## 🧠 Core Focus
-- Secure Backend Engineering (Node.js)
-- Web Application Security (OWASP Top 10)
-- System Design & API Security
-- Automation & Security Tooling (Python)
+I build, break, and harden web systems. My focus sits at the intersection of backend engineering and security — writing production-grade APIs with security baked in from the start, not bolted on at the end.
 
 ---
 
-## ⚙️ Technical Stack
-**Languages:**  
-JavaScript (Node.js), Python  
+## 🔐 What I Do
 
-**Backend & Systems:**  
-Express.js, REST APIs, Authentication Systems, Linux  
-
-**Security Concepts:**  
-JWT Authentication, Password Hashing (bcrypt), Input Validation, Rate Limiting, XSS/SQLi Mitigation  
-
-**Tools & Environment:**  
-Git, GitHub, Bash, Wireshark (basic), Nmap (basic)
+- **Secure Backend Engineering** — Node.js, Express, REST APIs with auth, RBAC, and rate limiting
+- **Application Security** — OWASP Top 10, JWT hardening, brute-force protection, token rotation
+- **Security Tooling** — Python scripts for recon, enumeration, and vulnerability scanning
+- **Offensive Security Practice** — HackTheBox · TryHackMe · Exploitation writeups
 
 ---
 
-## 🚧 Engineering Projects (In Progress → Production)
+## ⚙️ Tech Stack
 
-### 🔐 Secure Authentication System
-Designing a hardened authentication service:
-- JWT-based authentication flow  
-- Password hashing (bcrypt)  
-- Rate limiting & brute-force protection  
-- Role-based access control  
-
-→ Repository: *Coming soon*
+**Languages:** JavaScript (Node.js) · Python  
+**Backend:** Express.js · REST APIs · MongoDB · Mongoose  
+**Auth & Security:** JWT · bcryptjs · Helmet · express-rate-limit · RBAC  
+**Tools:** Git · GitHub · Bash · Linux · Wireshark · Nmap  
 
 ---
 
-### 🌐 Secure Fullstack Application
-Building a fullstack system with integrated security:
-- React + Node.js architecture  
-- Secure API design  
-- Input sanitization & validation  
-- HTTP security headers (Helmet)  
+## 🚀 Shipped Projects
 
-→ Repository: *Coming soon*
+### 🔐 [Secure Auth API](https://github.com/DevwithMujeeb/secure-auth-api)
+Production-grade authentication REST API built as a security lab/demo.
 
----
+- JWT access tokens (15min) + refresh token rotation (7 days)
+- Role-based access control — `user`, `moderator`, `admin`
+- Brute-force protection — account lockout after 5 failed attempts
+- IP-based rate limiting on all auth endpoints
+- Secure password reset via email with SHA-256 hashed tokens
+- httpOnly cookie storage · Helmet security headers
 
-### 🧪 Vulnerable Web Application Lab
-Developing intentionally vulnerable applications to simulate real-world exploits:
-- SQL Injection  
-- Cross-Site Scripting (XSS)  
-- Broken Authentication  
-
-Includes:
-- Exploitation walkthroughs  
-- Patched secure versions  
-
-→ Repository: *Coming soon*
+`Node.js` `Express` `MongoDB` `JWT` `bcryptjs` `Nodemailer`
 
 ---
 
-### 🛠️ Security Tooling (Python)
-Building lightweight tools for reconnaissance and testing:
-- Port scanner  
-- Subdomain enumeration script  
-- Basic vulnerability scanner  
+## 🚧 In Progress
 
-→ Repository: *Coming soon*
-
----
-
-## 📘 Security Practice & Writeups
-Documenting hands-on labs and methodologies from:
-- HackTheBox  
-- TryHackMe  
-
-Focus:
-- Enumeration techniques  
-- Exploitation workflow  
-- Lessons learned  
-
-→ Writeups: *Coming soon*
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🌐 Secure Fullstack App | React + Node.js with integrated security layer | Building |
+| 🧪 Vulnerable Web App Lab | Intentionally vulnerable apps with exploit walkthroughs + patches | Building |
+| 🛠️ Security Tooling | Python recon tools — port scanner, subdomain enum, vuln scanner | Building |
+| 📘 CTF Writeups | HackTheBox & TryHackMe methodology docs | Building |
 
 ---
 
-## 📈 Current Development Path
-- Deepening backend engineering with secure system design  
-- Studying web vulnerabilities & exploitation techniques  
-- Building a DevSecOps mindset (secure CI/CD pipelines)
+## 📈 Current Focus
+
+- Production-grade secure system design
+- Web exploitation techniques & CVE analysis
+- DevSecOps mindset — shifting security left in CI/CD pipelines
+- Building toward **Application Security** and **Security Engineering** roles
 
 ---
 
-## 🎯 Direction
-Focused on roles in:
-- Application Security  
-- Security Engineering  
-- Backend Engineering (Security-focused)  
+## 📫 Let's Connect
 
----
-
-## 📫 Contact
-- [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Abdulmujeeb%20Uthman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmujeeb-uthman/)
-- [![X Profile](https://img.shields.io/badge/X%20Profile-JeebExplains-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JeebExplains)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulmujeeb%20Uthman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmujeeb-uthman/)
+[![X](https://img.shields.io/badge/X-JeebExplains-111111?style=flat&logo=x&logoColor=white)](https://x.com/JeebExplains)
+[![Instagram](https://img.shields.io/badge/Instagram-vortex__node-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vortex_node/)
+[![Reddit](https://img.shields.io/badge/Reddit-Devmujeeb--commits-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Devmujeeb-commits/)
