@@ -40,14 +40,27 @@ Production-grade authentication REST API built as a security lab/demo.
 
 ---
 
+### 🔓 [Vulnerable Web Lab](https://github.com/DevwithMujeeb/vulnerable-web-lab)
+Intentionally vulnerable web app covering OWASP Top 10 — exploit each vulnerability, then see the patch.
+
+- NoSQL Injection — bypass login with MongoDB `$ne` operator
+- XSS — inject JavaScript that executes in the browser
+- Broken Authentication — brute-force with no lockout
+- IDOR — access any user's private data by changing an ID
+- Security Misconfiguration — extract stack traces, API keys, server config
+- Sensitive Data Exposure — plain text vs bcrypt hashed passwords side by side
+
+`Node.js` `Express` `MongoDB` `bcryptjs` `OWASP Top 10`
+
+---
+
 ## 🚧 In Progress
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🌐 Secure Fullstack App | React + Node.js with integrated security layer | Building |
-| 🧪 Vulnerable Web App Lab | Intentionally vulnerable apps with exploit walkthroughs + patches | Building |
 | 🛠️ Security Tooling | Python recon tools — port scanner, subdomain enum, vuln scanner | Building |
 | 📘 CTF Writeups | HackTheBox & TryHackMe methodology docs | Building |
+| 🌐 Secure Fullstack App | React + Node.js with integrated security layer | Building |
 
 ---
 
