@@ -65,4 +65,4 @@ Production-grade authentication REST API built as a security lab/demo.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulmujeeb%20Uthman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmujeeb-uthman/)
 [![X](https://img.shields.io/badge/X-JeebExplains-111111?style=flat&logo=x&logoColor=white)](https://x.com/JeebExplains)
 [![Instagram](https://img.shields.io/badge/Instagram-vortex__node-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vortex_node/)
-[![Reddit](https://img.shields.io/badge/Reddit-Devmujeeb--commits-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/DevwithMujeeb/)
+[![Reddit](https://img.shields.io/badge/Reddit-DevwithMujeeb-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/DevwithMujeeb/)
