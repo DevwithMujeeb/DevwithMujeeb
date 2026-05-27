@@ -1,6 +1,6 @@
 # Hey, I'm Abdulmujeeb Uthman 👋
 
-**Fullstack Developer · Application Security Engineer**
+**Backend Developer · Application Security Engineer**
 
 I build, break, and harden web systems. My focus sits at the intersection of backend engineering and security — writing production-grade APIs with security baked in from the start, not bolted on at the end.
 
