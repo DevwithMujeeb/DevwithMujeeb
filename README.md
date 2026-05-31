@@ -1,6 +1,6 @@
 # Hey, I'm Abdulmujeeb Uthman 👋
 
-**Backend Developer · Application Security Engineer**
+**Fullstack Developer · Application Security Engineer**
 
 I build, break, and harden web systems. My focus sits at the intersection of backend engineering and security — writing production-grade APIs with security baked in from the start, not bolted on at the end.
 
@@ -17,16 +17,17 @@ I build, break, and harden web systems. My focus sits at the intersection of bac
 
 ## ⚙️ Tech Stack
 
-**Languages:** JavaScript (Node.js) · Python  
-**Backend:** Express.js · REST APIs · MongoDB · Mongoose  
-**Auth & Security:** JWT · bcryptjs · Helmet · express-rate-limit · RBAC  
-**Tools:** Git · GitHub · Bash · Linux · Wireshark · Nmap  
+**Languages:** JavaScript (Node.js) · Python
+**Backend:** Express.js · REST APIs · MongoDB · Mongoose
+**Auth & Security:** JWT · bcryptjs · Helmet · express-rate-limit · RBAC
+**Tools:** Git · GitHub · Bash · Linux · Wireshark · Nmap
 
 ---
 
 ## 🚀 Shipped Projects
 
 ### 🔐 [Secure Auth API](https://github.com/DevwithMujeeb/secure-auth-api)
+
 Production-grade authentication REST API built as a security lab/demo.
 
 - JWT access tokens (15min) + refresh token rotation (7 days)
@@ -41,6 +42,7 @@ Production-grade authentication REST API built as a security lab/demo.
 ---
 
 ### 🔓 [Vulnerable Web Lab](https://github.com/DevwithMujeeb/vulnerable-web-lab)
+
 Intentionally vulnerable web app covering OWASP Top 10 — exploit each vulnerability, then see the patch.
 
 - NoSQL Injection — bypass login with MongoDB `$ne` operator
@@ -54,12 +56,23 @@ Intentionally vulnerable web app covering OWASP Top 10 — exploit each vulnerab
 
 ---
 
+### 🛠️ [Security Tools](https://github.com/DevwithMujeeb/security-tools)
+
+Python CLI security tools for recon and analysis.
+
+- Port Scanner — TCP port scanner with service detection and configurable timeout
+- Subdomain Enumerator — wordlist-based discovery with HTTPS support and results export
+- JWT Analyzer — decode, inspect, check expiry, and flag weak algorithms from the CLI
+
+`Python` `requests` `colorama` `JWT` `Recon`
+
+---
+
 ## 🚧 In Progress
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🛠️ Security Tooling | Python recon tools — port scanner, subdomain enum, vuln scanner | Building |
-| 📘 CTF Writeups | HackTheBox & TryHackMe methodology docs | Building |
+| Project                 | Description                                    | Status   |
+| ----------------------- | ---------------------------------------------- | -------- |
+| 📘 CTF Writeups         | HackTheBox & TryHackMe methodology docs        | Building |
 | 🌐 Secure Fullstack App | React + Node.js with integrated security layer | Building |
 
 ---
