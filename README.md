@@ -17,10 +17,27 @@ I build, break, and harden web systems. My focus sits at the intersection of bac
 
 ## ⚙️ Tech Stack
 
-**Languages:** JavaScript (Node.js) · Python
-**Backend:** Express.js · REST APIs · MongoDB · Mongoose
-**Auth & Security:** JWT · bcryptjs · Helmet · express-rate-limit · RBAC
-**Tools:** Git · GitHub · Bash · Linux · Wireshark · Nmap
+**Languages & Runtime**
+
+[![Languages](https://skillicons.dev/icons?i=js,python,nodejs,react)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev)
+
+**Security & Auth**
+
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-338?style=flat&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet.js-333?style=flat&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-555?style=flat&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-555?style=flat&logoColor=white)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,bash,linux)](https://skillicons.dev)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
 
 ---
 
