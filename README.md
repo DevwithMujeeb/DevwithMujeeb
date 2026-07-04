@@ -85,12 +85,27 @@ Python CLI security tools for recon and analysis.
 
 ---
 
+### 🔒 [SecureTeam](https://github.com/DevwithMujeeb/secureteam) · [Live Demo](https://secureteam.netlify.app)
+
+Secure RBAC-based team and project management app — security is the core design constraint, not an afterthought.
+
+- Two-layer RBAC — org-level roles + explicit project membership, enforced independently
+- JWT access/refresh rotation with httpOnly cookies + token version-based revocation
+- Brute-force protection — account lockout (5 attempts) + IP rate limiting, two independent layers
+- Atomic registration — User + Organization + Membership created in a single MongoDB transaction
+- Full audit logging — every privileged action recorded with actor, target, metadata, timestamp
+- Input validation + NoSQL injection sanitization on every write endpoint
+- OWASP Top 10 documented — see [SECURITY.md](https://github.com/DevwithMujeeb/secureteam/blob/main/SECURITY.md)
+
+`Node.js` `Express` `MongoDB` `React` `Tailwind` `JWT` `RBAC` `express-validator`
+
+---
+
 ## 🚧 In Progress
 
-| Project                 | Description                                    | Status   |
-| ----------------------- | ---------------------------------------------- | -------- |
-| 📘 CTF Writeups         | HackTheBox & TryHackMe methodology docs        | Building |
-| 🌐 Secure Fullstack App | React + Node.js with integrated security layer | Building |
+| Project         | Description                             | Status   |
+| --------------- | --------------------------------------- | -------- |
+| 📘 CTF Writeups | HackTheBox & TryHackMe methodology docs | Building |
 
 ---
 
