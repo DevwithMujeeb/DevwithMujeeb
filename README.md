@@ -11,7 +11,7 @@ I build, break, and harden web systems. My focus sits at the intersection of bac
 - **Secure Backend Engineering** — Node.js, Express, REST APIs with auth, RBAC, and rate limiting
 - **Application Security** — OWASP Top 10, JWT hardening, brute-force protection, token rotation
 - **Security Tooling** — Python scripts for recon, enumeration, and vulnerability scanning
-- **Offensive Security Practice** — HackTheBox · TryHackMe · Exploitation writeups
+- **Offensive Security Practice** — HackTheBox · Exploitation writeups
 
 ---
 
