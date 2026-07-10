@@ -105,7 +105,7 @@ Secure RBAC-based team and project management app — security is the core desig
 
 | Project         | Description                                                                                                      | Status |
 | --------------- | ---------------------------------------------------------------------------------------------------------------- | ------ |
-| 📘 CTF Writeups | HackTheBox Academy — Linux Fundamentals ✅ · Web Requests 🔲 · Networking Fundamentals 🔲 · Machines coming soon | Active |
+| 📘 CTF Writeups | HackTheBox Academy — Linux Fundamentals ✅ · Web Requests ✅ · Networking Fundamentals 🔲 · Machines coming soon | Active |
 
 ---
 
